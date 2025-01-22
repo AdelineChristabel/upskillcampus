@@ -152,9 +152,5 @@ The model achieved the following performance metrics on the test dataset:
 
 Special thanks to the contributors and maintainers of the dataset and to the developers of the libraries and tools utilized in this project.
 
----
 
-## 📜 License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
 
